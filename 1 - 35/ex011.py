@@ -1,10 +1,12 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia altura e largura de uma parede e mostre na tela a dimensão, a área e
-# quantidade em litros de tinta necessária para pintar.
+Exercicio 11:
+Faça um programa que leia altura e largura de uma parede e mostre na tela a dimensão, a área e
+quantidade em litros de tinta necessária para pintar. """
 
 largura = float(input('Qual a largura da parede em metros: '))
 altura = float(input('Qual a altura da parede em metros: '))
