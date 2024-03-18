@@ -1,9 +1,12 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se elas podem ou não formar um triângulo.
+Exercicio 35:
+Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se elas podem ou não formar um triângulo."""
+
 r1 = float(input('Insira o tamanho da primeira reta: '))
 r2 = float(input('Insira o tamanho da segunda reta: '))
 r3 = float(input('Insira o tamanho da terceira reta: '))
