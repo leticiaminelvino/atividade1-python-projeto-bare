@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Escreva um programa que leia um número e mostre se ele é par ou ímpar.
+Exercicio 30:
+Escreva um programa que leia um número e mostre se ele é par ou ímpar."""
 
 num = int(input('Digite um número inteiro: '))
 if num % 2 == 0:
