@@ -1,7 +1,7 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFF
-            INY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA_COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
 # Faça um programa que peça duas notas de um aluno e mostre a média com duas casas decimais.
 

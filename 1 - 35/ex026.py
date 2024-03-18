@@ -1,8 +1,9 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFFINY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
-#Faça um programa que leia uma frase e mostre quantas vezes aparece a letra 'A',
+# Faça um programa que leia uma frase e mostre quantas vezes aparece a letra 'A',
 # em que posição a letra 'A' aparece pela primeira e última vez.
 
 frase = (input('Digite uma frase: ')).strip()

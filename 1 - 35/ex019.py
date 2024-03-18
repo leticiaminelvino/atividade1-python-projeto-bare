@@ -1,6 +1,7 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFFINY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
 # Faça um programa que leia o nome de 4 alunos e sorteie aleatoriamente 1 deles.
 

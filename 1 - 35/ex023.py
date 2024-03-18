@@ -1,6 +1,7 @@
-''' Autores: ADONAY SOUZA FERREIRA
+"""Autores: ADONAY SOUZA FERREIRA
             ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA COSTA '''
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
 # Faça um programa que leia um número e informe qual é a unidade, a dezena, a dentena e o milhar.
 

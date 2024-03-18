@@ -1,8 +1,10 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFFINY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
-#Faça um programa que leia o comprimento do cateto oposto e adjacente de triângulo retângulo e informe o valor da hipotenusa.
+# Faça um programa que leia o comprimento do cateto oposto e adjacente de triângulo retângulo e informe
+# o valor da hipotenusa.
 
 from math import hypot
 num = float(input('Informe o comprimento do cateto oposto: '))

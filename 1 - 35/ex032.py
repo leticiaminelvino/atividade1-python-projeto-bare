@@ -1,8 +1,9 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFFINY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
-#Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+# Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 
 from datetime import date
 ano = int(input('Insira um ano, se quiser analisar o ano atual digite 0: '))

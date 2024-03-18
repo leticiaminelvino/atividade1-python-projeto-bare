@@ -1,8 +1,9 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFFINY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
-#Faça um programa que peça um número real qualquer e informe o número digitado e a sua parte inteira.
+# Faça um programa que peça um número real qualquer e informe o número digitado e a sua parte inteira.
 
 from math import floor
 num = float(input('Digite um um número real: '))

@@ -1,8 +1,9 @@
-''' Autores: ADONAY SOUZA FERREIRA \
-            ALINE DAFFINY FERREIRA GOMES \
-            LETÍCIA MINELVINO DA COSTA '''
+"""Autores: ADONAY SOUZA FERREIRA
+            ALINE DAFFINY FERREIRA GOMES
+            LETÍCIA MINELVINO DA_COSTA
+"""
 
-#Faça um programa que leia 3 números e mostre qual deles é o maior e qual o menor:
+# Faça um programa que leia 3 números e mostre qual deles é o maior e qual o menor:
 
 n1 = int(input('Digite o primeiro valor: '))
 n2 = int(input('Digite o segundo valor: '))
