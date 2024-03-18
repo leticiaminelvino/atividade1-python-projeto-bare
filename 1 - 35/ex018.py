@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia um ângulo e informe o seu respectivo seno, cosseno e tangente.
+Exercicio 18:
+Faça um programa que leia um ângulo e informe o seu respectivo seno, cosseno e tangente."""
 
 import math
 angulo = float(input('Digite o ângulo que voçê deseja: '))
