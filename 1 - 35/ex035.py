@@ -7,14 +7,8 @@
 lado1 = float(input('Insira o tamanho da primeiro lado: '))
 lado2 = float(input('Insira o tamanhodo segundo lado: '))
 lado3 = float(input('Insira o tamanho do terceiro lado: '))
-forma = False
 
-if lado1 + lado2 > lado3:
-    forma = True
-if lado1 + lado3 > lado2:
-    forma = True
-if lado2 + lado3 > lado1:
-    forma = True
+if r1 + r2 > r3 and r1 +r3 > r2 and r2 +r3> r1:
+   print("Os lados informados acima formam um triângulo")
 else:
-    print(False)
-print('Os lados informados formam um triângulo? {}'.format(forma))
+    print("Os lados informados não formam um triângulo")
