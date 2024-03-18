@@ -1,10 +1,12 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia uma frase e mostre quantas vezes aparece a letra 'A',
-# em que posição a letra 'A' aparece pela primeira e última vez.
+Exercicio 26:
+Faça um programa que leia uma frase e mostre quantas vezes aparece a letra 'A',
+em que posição a letra 'A' aparece pela primeira e última vez. """
 
 frase = (input('Digite uma frase: ')).strip()
 print('A letra a aparece {} vezes na frase.'.format(frase.upper().count('A')))
