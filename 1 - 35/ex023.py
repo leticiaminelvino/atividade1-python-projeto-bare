@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia um número e informe qual é a unidade, a dezena, a dentena e o milhar.
+Exercicio 23:
+Faça um programa que leia um número e informe qual é a unidade, a dezena, a dentena e o milhar. """
 
 num = int(input('Insira um valor: '))
 u = num // 1 % 10
