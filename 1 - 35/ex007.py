@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que peça duas notas de um aluno e mostre a média com duas casas decimais.
+Exercicio 07:
+Faça um programa que peça duas notas de um aluno e mostre a média com duas casas decimais."""
 
 n1 = float(input('Insira a primeira nota: '))
 n2 = float(input('Insira a segunda nota: '))
