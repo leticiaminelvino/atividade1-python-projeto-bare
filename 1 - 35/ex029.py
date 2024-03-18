@@ -1,10 +1,12 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80 km, mostre uma mensagem que ele
-# foi multado. A multra vai custar R$7,00 a cada  Km acima do limite.
+Exercicio 29:
+Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80 km, mostre uma mensagem que ele
+foi multado. A multra vai custar R$7,00 a cada  Km acima do limite. """
 
 vel = int(input('Informe a velocidade do veículo: '))
 multa = (vel - 80)*7
