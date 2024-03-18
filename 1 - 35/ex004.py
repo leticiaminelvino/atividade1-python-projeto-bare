@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia algo pelo teclado e mostre na tela todas as informações possíveis sobre ela:
+Exercício 04:
+Faça um programa que leia algo pelo teclado e mostre na tela todas as informações possíveis sobre ela:"""
 
 dado = input('Insira um valor: ')
 print('O tipo primitivo desse valor é:', type(dado))
