@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Crie um programa qyue leia dois números e mostre a soma entre eles.
+Exercício 03:
+Crie um programa qyue leia dois números e mostre a soma entre eles."""
 
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite um número: '))
