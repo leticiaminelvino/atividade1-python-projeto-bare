@@ -1,10 +1,12 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que pergunte a quantidade de dias percorridos e km rodados por um carro alugado.
-# Infome o preço a pagar sabendo que R$60/dia e R$0.15/km rodado.
+Exercicio 15:
+Faça um programa que pergunte a quantidade de dias percorridos e km rodados por um carro alugado.
+Infome o preço a pagar sabendo que R$60/dia e R$0.15/km rodado. """
 
 dia = float(input('Quantos dias o carro foi alugado? '))
 km = float(input('Quantos km rodados? '))
