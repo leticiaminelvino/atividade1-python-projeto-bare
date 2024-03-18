@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia um número inteiro e mostre na tela a sua tabuada:
+Exercicio 09:
+Faça um programa que leia um número inteiro e mostre na tela a sua tabuada:"""
 
 num = int(input('Infome um número: '))
 print('-'*12)
