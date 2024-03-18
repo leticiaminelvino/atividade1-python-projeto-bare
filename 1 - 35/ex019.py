@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa que leia o nome de 4 alunos e sorteie aleatoriamente 1 deles.
+Exercicio 19:
+Faça um programa que leia o nome de 4 alunos e sorteie aleatoriamente 1 deles. """
 
 import random
 n1 = input('Nome aluno 1: ')
