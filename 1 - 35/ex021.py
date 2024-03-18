@@ -1,9 +1,11 @@
-"""Autores: ADONAY SOUZA FERREIRA
-            ALINE DAFFINY FERREIRA GOMES
-            LETÍCIA MINELVINO DA_COSTA
 """
+Alunos: 
+ADONAY SOUZA FERREIRA
+ALINE DAFFINY FERREIRA GOMES
+LETÍCIA MINELVINO DA COSTA
 
-# Faça um programa Python que abra e reproduza o áudio de um arquivo MP3.
+Exercicio 21:
+Faça um programa Python que abra e reproduza o áudio de um arquivo MP3."""
 
 import pygame
 pygame.mixer.init()
