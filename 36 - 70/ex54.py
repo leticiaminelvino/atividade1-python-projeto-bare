@@ -1,3 +1,13 @@
+"""
+ALUNOS:
+Adonay Souza Ferreira
+Aline Daffiny Ferreira Gomes
+Leticia Minelvino da Costa
+
+Exercício Python 054: Crie um programa que leia o ano de nascimento de sete pessoas.
+No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+"""
+
 from datetime import date
 
 menores_idade = 0
